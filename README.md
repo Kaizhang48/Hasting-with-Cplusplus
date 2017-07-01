@@ -1,0 +1,2 @@
+# Hasting-with-C-
+Aim to choose given number of stocks among the market to construct portofolio that has the minimum risk. If we go through all possible combination and find the one that has minimum risk, the calculation is huge. For example, if we choose 100 stocks from 200, the possible combination is about 10^58 and will cost you longer than the age of universe to go through them. Apply Hasting-Metropolis Algorithm and multi-threads programming to solve this problem, it finished the choosing 100 from 200 case using just about 3 min.
